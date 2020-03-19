@@ -1,0 +1,16 @@
+{
+  "name": "garrulousbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ufo#8033",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-free": "^1.0.3",
+    "discord.js": "^11.5.1",
+    "urban-dictionary": "^2.2.1"
+  }
+}
